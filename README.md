@@ -18,7 +18,7 @@ This project is a simple yet effective Honeypot designed to detect and log unaut
    
 <h2>Phase 1: Setup VULTR </h2>
 
-  1. </b> Create a VULTR account </b>    [[vultr.com](https://www.vultr.com/?ref=9720092)]
+  1. </b> Create a VULTR account </b>    [[vultr.com](https://www.vultr.com/?ref=9720742)]
   2. Click on "Deploy" and "Deploy New Server".
 <img src="https://imgur.com/eSqU5UB.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
