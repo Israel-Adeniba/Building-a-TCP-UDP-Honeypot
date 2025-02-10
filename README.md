@@ -23,3 +23,4 @@ This project is a simple yet effective Honeypot designed to detect and log unaut
 <img src="https://imgur.com/eSqU5UB.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
+The reason for choosing the data center closest to you, is to reduce the latency times, the closer you are to a data center, the lower the latency.
